@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: url(/kitchen-731351_1920.jpg);
+    background-size:auto;
+    background-repeat: no-repeat no-repeat;
+  }
+  img{
+    height: 107px;
+    width: 114px;
+    border: 2px solid green;
+    background-color: rgb(212, 16, 16)107, 100, 100);
+  }
