@@ -67,7 +67,7 @@ ul li a:hover{
     height: 110%;
     width: 100%;
     z-index: -1;
-    background: url('img/homebg.png') no-repeat center/cover;
+    background: url('../img/homebg.png') no-repeat center/cover;
     opacity: 0.89;
     margin-top: 0rem;
     
@@ -156,7 +156,7 @@ ul li a:hover{
 #client::before{
     content: "";
     position: absolute;
-    background: url('img/bg.png') no-repeat center center/cover;
+    background: url('../img/bg.png') no-repeat center center/cover;
     z-index: -1;
     opacity: 0.4;
     height: 100%;
@@ -194,7 +194,7 @@ ul li a:hover{
 #contact::before{
     content: "";
     position: absolute;
-    background: url('img/contact.png') no-repeat center center/cover;
+    background: url('../img/contact.png') no-repeat center center/cover;
     z-index: -1;
     opacity: 0.79;
     height: 100%;
